@@ -1,4 +1,4 @@
-# Holberton_School-Day005: Shell, init files, variables and expansions #
+# Shell, init files, variables and expansions #
 Commands to learn: printenv, set, unset, export, alias, unalias, ., source, printf
 You are not allowed to use bc or sed
 
